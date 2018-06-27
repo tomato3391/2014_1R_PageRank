@@ -1,0 +1,17 @@
+﻿Build started 2014-06-25 오후 11:33:03.
+     1>Project "C:\Users\Co-Evolution\Documents\Visual Studio 2010\Projects\Miniproject2\Miniproject2\Miniproject2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Miniproject2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Miniproject2.vcxproj -> C:\Users\Co-Evolution\Documents\Visual Studio 2010\Projects\Miniproject2\Debug\Miniproject2.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Miniproject2.unsuccessfulbuild".
+         Touching "Debug\Miniproject2.lastbuildstate".
+     1>Done Building Project "C:\Users\Co-Evolution\Documents\Visual Studio 2010\Projects\Miniproject2\Miniproject2\Miniproject2.vcxproj" (build target(s)).
+
+빌드했습니다.
+
+Time Elapsed 00:00:00.04
